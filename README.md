@@ -55,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0704-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
