@@ -14,18 +14,9 @@
  * }
  */
 class Solution {
-    public void preorder(TreeNode root) {
-        if (root != null) {
-            System.out.print(root.val + " ");
-            preorder(root.left);
-            preorder(root.right);
-        }
-    }
-
     public TreeNode searchBST(TreeNode root, int val) {
         while (root != null) {
             if (root.val == val) {
-                preorder(root); 
                 return root;  
             } 
             else if (val < root.val) {
