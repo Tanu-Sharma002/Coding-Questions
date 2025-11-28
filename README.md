@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
@@ -90,9 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1019-next-greater-node-in-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
