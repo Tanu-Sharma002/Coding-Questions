@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0704-binary-search) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1122-relative-sort-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1122-relative-sort-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sorting
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
