@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0205-isomorphic-strings) |
 | [0705-design-hashset](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0705-design-hashset) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1122-relative-sort-array) |
 ## Math
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1122-relative-sort-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
@@ -44,15 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
@@ -60,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1609-even-odd-tree) |
 ## Stack
 |  |
