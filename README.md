@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0263-ugly-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1688-count-of-matches-in-tournament](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
 ## Binary Search
