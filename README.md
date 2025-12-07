@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1609-even-odd-tree) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1609-even-odd-tree) |
 ## Binary Tree
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1609-even-odd-tree) |
