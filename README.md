@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1122-relative-sort-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0344-reverse-string) |
 | [0551-student-attendance-record-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0551-student-attendance-record-i) |
 | [0917-reverse-only-letters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0917-reverse-only-letters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
 ## Matrix
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1925-count-square-sum-triples) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
