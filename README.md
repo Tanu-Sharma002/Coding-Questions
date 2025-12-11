@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1925-count-square-sum-triples) |
+| [2427-number-of-common-factors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2427-number-of-common-factors) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3516-find-closest-person) |
@@ -214,8 +215,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1925-count-square-sum-triples) |
+| [2427-number-of-common-factors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2427-number-of-common-factors) |
 ## Sliding Window
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
