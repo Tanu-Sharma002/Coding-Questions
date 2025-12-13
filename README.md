@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
 ## Binary Search
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0551-student-attendance-record-i) |
 | [0917-reverse-only-letters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0917-reverse-only-letters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
