@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0205-isomorphic-strings) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0705-design-hashset](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0475-heaters) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0475-heaters) |
 | [0905-sort-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0905-sort-array-by-parity) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0234-palindrome-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0475-heaters) |
 | [0905-sort-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0905-sort-array-by-parity) |
