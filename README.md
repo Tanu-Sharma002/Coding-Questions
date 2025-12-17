@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0705-design-hashset) |
+| [0746-min-cost-climbing-stairs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -286,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0213-house-robber-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
