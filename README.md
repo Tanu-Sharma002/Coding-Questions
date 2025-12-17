@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3467-transform-array-by-parity) |
 ## Tree
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0551-student-attendance-record-i) |
 | [0917-reverse-only-letters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0917-reverse-only-letters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
