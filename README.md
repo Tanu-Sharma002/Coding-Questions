@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0746-min-cost-climbing-stairs) |
