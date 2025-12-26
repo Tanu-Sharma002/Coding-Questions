@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0705-design-hashset) |
 | [0929-unique-email-addresses](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0929-unique-email-addresses) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0475-heaters) |
 | [0495-teemo-attacking](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0518-coin-change-ii) |
 | [0645-set-mismatch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0658-find-k-closest-elements) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0383-ransom-note) |
 | [0459-repeated-substring-pattern](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0551-student-attendance-record-i) |
 | [0917-reverse-only-letters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0929-unique-email-addresses) |
