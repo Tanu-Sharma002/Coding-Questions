@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1436-destination-city) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
