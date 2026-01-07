@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2498-frog-jump-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2498-frog-jump-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3467-transform-array-by-parity) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3467-transform-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3467-transform-array-by-parity) |
 ## Tree
 |  |
