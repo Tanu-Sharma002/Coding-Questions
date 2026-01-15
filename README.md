@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1137-n-th-tribonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1688-count-of-matches-in-tournament) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1094-car-pooling](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1122-relative-sort-array) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2498-frog-jump-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2498-frog-jump-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3074-apple-redistribution-into-boxes) |
