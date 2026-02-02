@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1859-sorting-the-sentence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1859-sorting-the-sentence) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0658-find-k-closest-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Number Theory
 |  |
 | ------- |
