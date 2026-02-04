@@ -1,25 +1,28 @@
 class Solution {
     public int numOfSubarrays(int[] arr) {
-        int n = arr.length;
-        int mod = 1000000007;
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.put(0, 1);  
+
+        int MOD = 1_000_000_007;
+
+        int even = 1; // prefixSum = 0 (even)
+        int odd = 0;
+
         int sum = 0;
         int count = 0;
-        for (int i = 0; i < n; i++) {
-            sum += arr[i];
+
+        for (int num : arr) {
+            sum += num;
+
             if (sum % 2 == 0) {
-                if (map.containsKey(1)) {
-                    count = (count + map.get(1)) % mod;
-                }
-                map.put(0, map.getOrDefault(0, 0) + 1);
+                // even - odd = odd subarray
+                count = (count + odd) % MOD;
+                even++;
             } else {
-                if (map.containsKey(0)) {
-                    count = (count + map.get(0)) % mod;
-                }
-                map.put(1, map.getOrDefault(1, 0) + 1);
+                // odd - even = odd subarray
+                count = (count + even) % MOD;
+                odd++;
             }
         }
+
         return count;
     }
 }
