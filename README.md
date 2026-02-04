@@ -484,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
