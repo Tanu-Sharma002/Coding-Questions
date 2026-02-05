@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2498-frog-jump-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2498-frog-jump-ii) |
 ## Interactive
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1544-make-the-string-great) |
 | [1859-sorting-the-sentence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String Matching
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Number Theory
 |  |
