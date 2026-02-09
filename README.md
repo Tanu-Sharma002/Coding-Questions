@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
@@ -520,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0595-big-countries) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
