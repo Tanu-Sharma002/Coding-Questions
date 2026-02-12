@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1045-customers-who-bought-all-products) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Backtracking
