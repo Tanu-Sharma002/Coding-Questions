@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3026-maximum-good-subarray-sum) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3026-maximum-good-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3026-maximum-good-subarray-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## String Matching
 |  |
 | ------- |
@@ -549,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
