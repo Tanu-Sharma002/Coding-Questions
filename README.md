@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1609-even-odd-tree) |
 ## Binary Tree
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
@@ -541,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0113-path-sum-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
