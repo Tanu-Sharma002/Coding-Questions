@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3026-maximum-good-subarray-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3379-transformed-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3174-clear-digits) |
+| [3379-transformed-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
 | ------- |
