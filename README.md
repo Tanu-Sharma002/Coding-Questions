@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0090-subsets-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0113-path-sum-ii) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0224-basic-calculator) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0733-flood-fill) |
@@ -584,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0113-path-sum-ii) |
 ## Union-Find
