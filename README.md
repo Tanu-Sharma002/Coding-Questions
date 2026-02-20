@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
