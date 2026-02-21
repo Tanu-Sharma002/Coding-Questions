@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0513-find-bottom-left-tree-value) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0513-find-bottom-left-tree-value) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0733-flood-fill) |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 ## Segment Tree
 |  |
