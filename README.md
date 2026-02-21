@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1020-number-of-enclaves) |
 | [1094-car-pooling](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1122-relative-sort-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1020-number-of-enclaves) |
 | [1609-even-odd-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1020-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1020-number-of-enclaves) |
 ## Segment Tree
 |  |
 | ------- |
