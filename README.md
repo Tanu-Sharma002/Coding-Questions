@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1436-destination-city) |
 | [1748-sum-of-unique-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1436-destination-city](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1436-destination-city) |
 | [1544-make-the-string-great](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1544-make-the-string-great) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
