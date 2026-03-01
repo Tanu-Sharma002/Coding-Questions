@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0539-minimum-time-difference) |
 | [0598-range-addition-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1137-n-th-tribonacci-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0905-sort-array-by-parity) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -658,4 +661,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
