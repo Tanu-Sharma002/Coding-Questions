@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2427-number-of-common-factors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2427-number-of-common-factors) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3516-find-closest-person) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3026-maximum-good-subarray-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3379-transformed-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
