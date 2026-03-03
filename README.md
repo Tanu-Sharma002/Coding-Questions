@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2427-number-of-common-factors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2427-number-of-common-factors) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
