@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1020-number-of-enclaves) |
 | [1609-even-odd-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3026-maximum-good-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3026-maximum-good-subarray-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3719-longest-balanced-subarray-i) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
