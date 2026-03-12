@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0138-copy-list-with-random-pointer) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
