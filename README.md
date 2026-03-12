@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0832-flipping-an-image) |
+| [1009-complement-of-base-10-integer](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Dynamic Programming
 |  |
