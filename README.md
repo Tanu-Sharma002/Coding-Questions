@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1020-number-of-enclaves) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2092-find-all-people-with-secret](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2092-find-all-people-with-secret) |
 ## Segment Tree
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1514-path-with-maximum-probability) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2092-find-all-people-with-secret](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2092-find-all-people-with-secret) |
