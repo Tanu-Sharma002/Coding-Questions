@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0455-assign-cookies) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0367-valid-perfect-square) |
 | [0475-heaters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0475-heaters) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0746-min-cost-climbing-stairs) |
