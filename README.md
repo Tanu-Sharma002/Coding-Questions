@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1436-destination-city](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1436-destination-city) |
 | [1544-make-the-string-great](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
