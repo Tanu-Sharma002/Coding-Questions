@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1922-count-good-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1952-three-divisors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2413-smallest-even-multiple) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2427-number-of-common-factors) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sliding Window
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2427-number-of-common-factors) |
 ## Bit Manipulation
