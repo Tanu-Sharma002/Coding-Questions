@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0198-house-robber](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0213-house-robber-ii) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0392-is-subsequence) |
