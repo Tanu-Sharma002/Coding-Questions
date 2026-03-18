@@ -741,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2092-find-all-people-with-secret](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2924-find-champion-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2924-find-champion-ii) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
