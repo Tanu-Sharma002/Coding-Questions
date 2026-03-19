@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0295-find-median-from-data-stream) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0705-design-hashset](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0706-design-hashmap) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0733-flood-fill) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1004-max-consecutive-ones-iii) |
