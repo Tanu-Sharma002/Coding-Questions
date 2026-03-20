@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1020-number-of-enclaves) |
 | [1609-even-odd-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1609-even-odd-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1020-number-of-enclaves) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2092-find-all-people-with-secret) |
 ## Segment Tree
 |  |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2092-find-all-people-with-secret](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
