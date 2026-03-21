@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0905-sort-array-by-parity) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0879-profitable-schemes) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
