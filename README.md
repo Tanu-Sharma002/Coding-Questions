@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0879-profitable-schemes) |
 | [0920-number-of-music-playlists](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0920-number-of-music-playlists) |
+| [0935-knight-dialer](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0935-knight-dialer) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
