@@ -21,7 +21,7 @@ class Solution {
                 }
             }
         }
-        backtrack.put(start,result);
+        // backtrack.put(start,result);
         return result;
     }
 }
