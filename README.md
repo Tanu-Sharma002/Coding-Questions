@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1859-sorting-the-sentence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2092-find-all-people-with-secret](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2498-frog-jump-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2498-frog-jump-ii) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Combinatorics
