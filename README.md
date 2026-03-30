@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2465-number-of-distinct-averages) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2906-construct-product-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2906-construct-product-matrix) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3026-maximum-good-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3026-maximum-good-subarray-sum) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Combinatorics
 |  |
