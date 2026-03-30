@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3174-clear-digits) |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 ## Matrix
 |  |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Combinatorics
 |  |
 | ------- |
