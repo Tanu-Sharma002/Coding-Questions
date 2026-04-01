@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0518-coin-change-ii) |
+| [0552-student-attendance-record-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0552-student-attendance-record-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0746-min-cost-climbing-stairs) |
