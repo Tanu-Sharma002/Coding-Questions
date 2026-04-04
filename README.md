@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0139-word-break) |
