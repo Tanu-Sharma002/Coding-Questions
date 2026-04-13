@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
