@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0503-next-greater-element-ii) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0062-unique-paths) |
