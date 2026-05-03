@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0503-next-greater-element-ii) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0518-coin-change-ii) |
 | [0552-student-attendance-record-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0552-student-attendance-record-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0494-target-sum) |
 ## Union-Find
 |  |
 | ------- |
