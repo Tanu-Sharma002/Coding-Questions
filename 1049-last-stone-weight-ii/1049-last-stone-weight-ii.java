@@ -1,10 +1,10 @@
 class Solution {
     public int lastStoneWeightII(int[] stones) {
-        int t_sum=0;
+        int total_sum=0;
         for(int i=0; i<stones.length; i++){
-            t_sum += stones[i];
+            total_sum += stones[i];
         }
-        int sum = t_sum/2;
+        int sum = total_sum/2;
         boolean dp[] = new boolean[sum+1];
         dp[0]=true;
         for(int i=0; i<stones.length; i++){
@@ -12,9 +12,9 @@ class Solution {
                 dp[j]=dp[j] || dp[j-stones[i]];
             }
         }
-        for (int j = sum; j >= 0; j--) {
+        for (int j=sum; j >= 0; j--) {
             if (dp[j]) {
-                return t_sum - 2 * j;
+                return total_sum - 2 * j;
             }
         }
         return 0;
