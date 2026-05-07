@@ -5,9 +5,9 @@ class Solution {
         int[][] ans = new int[r][c];
         int x=0;
         int y=0;
-        for(int i = 0; i < r; i++){
-            for(int j = 0; j < c; j++){
-                ans[i][j] = image[i][c - 1 - j];
+        for(int i=0; i<r; i++){
+            for(int j=0; j<c; j++){
+                ans[i][j] = image[i][c-1-j];
             }
         }
         for(int i=0; i<r; i++){
