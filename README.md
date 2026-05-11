@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2465-number-of-distinct-averages) |
 | [2498-frog-jump-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2498-frog-jump-ii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2906-construct-product-matrix) |
 | [2923-find-champion-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2923-find-champion-i) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3379-transformed-array) |
