@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1661-average-time-of-process-per-machine) |
