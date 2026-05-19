@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2465-number-of-distinct-averages](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2465-number-of-distinct-averages) |
+| [2540-minimum-common-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3026-maximum-good-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3026-maximum-good-subarray-sum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2465-number-of-distinct-averages) |
 | [2498-frog-jump-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2498-frog-jump-ii) |
+| [2540-minimum-common-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2906-construct-product-matrix) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2498-frog-jump-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2498-frog-jump-ii) |
+| [2540-minimum-common-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2540-minimum-common-value) |
 ## Interactive
 |  |
 | ------- |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2465-number-of-distinct-averages](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2465-number-of-distinct-averages) |
+| [2540-minimum-common-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2540-minimum-common-value) |
 ## Recursion
 |  |
 | ------- |
