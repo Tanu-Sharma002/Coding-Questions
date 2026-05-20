@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0455-assign-cookies) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0392-is-subsequence) |
