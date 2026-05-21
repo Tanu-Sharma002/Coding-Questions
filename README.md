@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0326-power-of-three) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0450-delete-node-in-a-bst) |
@@ -791,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0132-palindrome-partitioning-ii) |
