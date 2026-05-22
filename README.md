@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1436-destination-city](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1436-destination-city) |
 | [1544-make-the-string-great](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1544-make-the-string-great) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
