@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1544-make-the-string-great) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1436-destination-city) |
 | [1544-make-the-string-great](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1859-sorting-the-sentence) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2008-maximum-earnings-from-taxi) |
