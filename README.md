@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1049-last-stone-weight-ii) |
+| [1051-height-checker](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1200-minimum-absolute-difference) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1048-longest-string-chain) |
+| [1051-height-checker](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1200-minimum-absolute-difference) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1051-height-checker](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
