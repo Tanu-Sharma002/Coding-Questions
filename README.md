@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2126-destroying-asteroids) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2465-number-of-distinct-averages](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2540-minimum-common-value) |
 ## Recursion
