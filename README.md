@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0507-perfect-number) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0494-target-sum) |
