@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0539-minimum-time-difference) |
 | [0598-range-addition-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
