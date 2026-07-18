@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0455-assign-cookies) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0658-find-k-closest-elements) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -870,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0518-coin-change-ii) |
