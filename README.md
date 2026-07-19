@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0513-find-bottom-left-tree-value) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0310-minimum-height-trees) |
 | [0743-network-delay-time](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0997-find-the-town-judge) |
@@ -1024,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0310-minimum-height-trees) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Game Theory
 |  |
