@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0539-minimum-time-difference) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0459-repeated-substring-pattern](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0520-detect-capital) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0832-flipping-an-image) |
