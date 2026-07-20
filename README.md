@@ -810,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2427-number-of-common-factors) |
