@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3026-maximum-good-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3026-maximum-good-subarray-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2923-find-champion-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2923-find-champion-i) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3026-maximum-good-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3026-maximum-good-subarray-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2465-number-of-distinct-averages) |
 | [2784-check-if-array-is-good](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3467-transform-array-by-parity) |
