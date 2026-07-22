@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0140-word-break-ii) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
