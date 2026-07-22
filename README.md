@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3379-transformed-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2498-frog-jump-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Design
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2924-find-champion-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2924-find-champion-ii) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
@@ -1069,4 +1072,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+## Ordered Set
+|  |
+| ------- |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 <!---LeetCode Topics End-->
