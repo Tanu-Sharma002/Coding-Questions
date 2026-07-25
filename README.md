@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3745-maximize-expression-of-three-elements) |
