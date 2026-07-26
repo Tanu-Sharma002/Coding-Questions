@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0622-design-circular-queue) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0307-range-sum-query-mutable) |
@@ -1103,4 +1106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
