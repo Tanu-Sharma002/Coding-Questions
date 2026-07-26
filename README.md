@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting Sort
 |  |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Design
 |  |
