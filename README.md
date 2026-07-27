@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0539-minimum-time-difference) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0657-robot-return-to-origin) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0520-detect-capital) |
