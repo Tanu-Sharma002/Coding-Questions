@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2465-number-of-distinct-averages) |
 | [2498-frog-jump-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2498-frog-jump-ii) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2540-minimum-common-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2615-sum-of-distances) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2465-number-of-distinct-averages) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2784-check-if-array-is-good](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3174-clear-digits) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1514-path-with-maximum-probability) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
@@ -817,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2906-construct-product-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2906-construct-product-matrix) |
 | [2923-find-champion-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2923-find-champion-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2965-find-missing-and-repeated-values) |
