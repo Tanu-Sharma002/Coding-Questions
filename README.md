@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0139-word-break) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0310-minimum-height-trees) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0140-word-break-ii) |
