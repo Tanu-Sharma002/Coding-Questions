@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1688-count-of-matches-in-tournament) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1922-count-good-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1952-three-divisors) |
