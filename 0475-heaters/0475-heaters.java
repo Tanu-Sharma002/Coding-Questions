@@ -6,11 +6,11 @@ class Solution {
         int radius = 0;
         int n = heaters.length;
         for (int house : houses) {
-            while (i < n - 1 && Math.abs(heaters[i + 1] - house) <= Math.abs(heaters[i] - house)) {
+            while (i<n-1 && Math.abs(heaters[i+1]-house) <= Math.abs(heaters[i]-house)) {
                 i++;
             }
-            int dist = Math.abs(heaters[i] - house);
-            if (dist > radius) {
+            int dist = Math.abs(heaters[i]-house);
+            if (dist>radius) {
                 radius = dist;
             }
         }
