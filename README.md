@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0146-lru-cache) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
