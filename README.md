@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0492-construct-the-rectangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0539-minimum-time-difference) |
 | [0598-range-addition-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0598-range-addition-ii) |
