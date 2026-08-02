@@ -1,6 +1,6 @@
 class Solution {
     public int climbStairs(int n, int[] costs) {
-        int v0=1;
+        int v0=0;
         int v1=0;
         int v2=0;
         int v=0;
