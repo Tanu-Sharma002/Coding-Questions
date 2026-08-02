@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3693-climbing-stairs-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
+| [3693-climbing-stairs-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
 |  |
