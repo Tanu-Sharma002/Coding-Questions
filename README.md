@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0343-integer-break) |
@@ -1147,4 +1148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0146-lru-cache) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
