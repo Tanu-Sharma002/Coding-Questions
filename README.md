@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3026-maximum-good-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3026-maximum-good-subarray-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3467-transform-array-by-parity) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3379-transformed-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1159,10 +1164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Brainteaser
 |  |
 | ------- |
