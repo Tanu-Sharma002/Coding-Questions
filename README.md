@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0819-most-common-word) |
 | [0827-making-a-large-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0860-lemonade-change) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1051-height-checker](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1051-height-checker) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0944-delete-columns-to-make-sorted) |
