@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0096-unique-binary-search-trees) |
+| [0171-excel-sheet-column-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0319-bulb-switcher) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0344-reverse-string) |
