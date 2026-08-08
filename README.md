@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2121-intervals-between-identical-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2121-intervals-between-identical-elements) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2121-intervals-between-identical-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2126-destroying-asteroids) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3467-transform-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2126-destroying-asteroids) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2498-frog-jump-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -839,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2129-capitalize-the-title) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
