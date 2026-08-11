@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0819-most-common-word) |
+| [0888-fair-candy-swap](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0912-sort-an-array) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
