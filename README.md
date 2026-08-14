@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
+| [3248-snake-in-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3248-snake-in-matrix) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3379-transformed-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3174-clear-digits) |
+| [3248-snake-in-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3248-snake-in-matrix) |
 | [3379-transformed-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3174-clear-digits) |
+| [3248-snake-in-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3248-snake-in-matrix) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3606-coupon-code-validator) |
