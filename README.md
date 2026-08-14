@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0705-design-hashset) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0622-design-circular-queue) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -944,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0713-subarray-product-less-than-k) |
