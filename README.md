@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3248-snake-in-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3248-snake-in-matrix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3379-transformed-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
