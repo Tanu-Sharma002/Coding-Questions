@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3693-climbing-stairs-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3693-climbing-stairs-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3731-find-missing-elements) |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
