@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0565-array-nesting](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0565-array-nesting](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0565-array-nesting) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0733-flood-fill) |
