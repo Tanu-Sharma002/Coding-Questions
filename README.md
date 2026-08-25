@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0500-keyboard-row) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0491-non-decreasing-subsequences](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0832-flipping-an-image) |
@@ -1159,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0140-word-break-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0494-target-sum) |
 ## Union-Find
 |  |
