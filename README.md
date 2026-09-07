@@ -878,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0830-positions-of-large-groups) |
 | [0917-reverse-only-letters](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0929-unique-email-addresses) |
+| [0940-distinct-subsequences-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1048-longest-string-chain) |
@@ -1069,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0920-number-of-music-playlists](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0920-number-of-music-playlists) |
 | [0935-knight-dialer](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0935-knight-dialer) |
+| [0940-distinct-subsequences-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1049-last-stone-weight-ii) |
