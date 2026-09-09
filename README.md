@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0539-minimum-time-difference) |
 | [0598-range-addition-ii](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0598-range-addition-ii) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0539-minimum-time-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0539-minimum-time-difference) |
