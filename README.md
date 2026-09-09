@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2739-total-distance-traveled](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2739-total-distance-traveled) |
 | [2843-count-symmetric-integers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2739-total-distance-traveled](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/2739-total-distance-traveled) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/3248-snake-in-matrix) |
