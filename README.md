@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0788-rotated-digits) |
+| [0812-largest-triangle-area](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0920-number-of-music-playlists](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0920-number-of-music-playlists) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0804-unique-morse-code-words) |
+| [0812-largest-triangle-area](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0819-most-common-word) |
 | [0827-making-a-large-island](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0832-flipping-an-image) |
@@ -1124,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Database
 |  |
@@ -1299,4 +1302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0944-delete-columns-to-make-sorted) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Tanu-Sharma002/Coding-Questions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
